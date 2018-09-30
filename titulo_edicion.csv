@@ -1,0 +1,925 @@
+;titulo;edicion;nom_mejor_pelicula;gana_mejor_pelicula;nom_mejor_direc;gana_mejor_direc
+0;El autor;32;1;0;1;0
+1;Estiu 1993;32;1;0;0;0
+2;Handia;32;1;0;1;0
+3;La librería;32;1;1;1;1
+4;Verónica;32;1;0;1;0
+5;El secreto de Marrowbone;32;0;0;0;0
+6;La llamada;32;0;0;0;0
+7;No sé decir adiós;32;0;0;0;0
+8;Abracadabra;32;0;0;0;0
+9;Incierta gloria;32;0;0;0;0
+10;La cordillera;32;0;0;0;0
+11;Zona hostil;32;0;0;0;0
+12;Loving Pablo;32;0;0;0;0
+13;Morir;32;0;0;0;0
+14;Amar;32;0;0;0;0
+15;Pieles;32;0;0;0;0
+16;Selfie;32;0;0;0;0
+17;Oro;32;0;0;0;0
+18;El bar;32;0;0;0;0
+19;Deep;32;0;0;0;0
+20;Nur eta Herensugearen tenplua;32;0;0;0;0
+21;Tadeo Jones 2. El secreto del Rey Midas;32;0;0;0;0
+22;Cantábrico, los dominios del oso pardo;32;0;0;0;0
+23;Dancing Beethoven;32;0;0;0;0
+24;Muchos hijos, un mono y un castillo;32;0;0;0;0
+25;Saura(s);32;0;0;0;0
+26;Amazona;32;0;0;0;0
+27;Tempestad;32;0;0;0;0
+28;Una mujer fantástica;32;0;0;0;0
+29;Zama;32;0;0;0;0
+30;C’est la vie!;32;0;0;0;0
+31;Lady Macbeth;32;0;0;0;0
+32;The Square;32;0;0;0;0
+33;Toni Erdmann;32;0;0;0;0
+34;Australia;32;0;0;0;0
+35;Baraka;32;0;0;0;0
+36;Como yo te amo;32;0;0;0;0
+37;Extraños en la carretera;32;0;0;0;0
+38;Madre;32;0;0;0;0
+39;Los desheredados;32;0;0;0;0
+40;Primavera rosa en México;32;0;0;0;0
+41;The Fourth Kingdom;32;0;0;0;0
+42;Tribus de la Inquisición;32;0;0;0;0
+43;Colores;32;0;0;0;0
+44;El ermitaño;32;0;0;0;0
+45;Un día en el parque;32;0;0;0;0
+46;Woody & Woody;32;0;0;0;0
+47;El hombre de las mil caras;31;1;0;1;0
+48;Julieta;31;1;0;1;0
+49;Que Dios nos perdone;31;1;0;1;0
+50;Tarde para la ira;31;1;1;0;0
+51;Un monstruo viene a verme;31;1;0;1;1
+52;1898. Los últimos de Filipinas;31;0;0;0;0
+53;El rey tuerto;31;0;0;0;0
+54;María (y los demás);31;0;0;0;0
+55;Cien años de perdón;31;0;0;0;0
+56;El olivo;31;0;0;0;0
+57;KIKI, el amor se hace;31;0;0;0;0
+58;Bollywood Made in Spain;31;0;0;0;0
+59;Cerca de tu casa;31;0;0;0;0
+60;Frágil equilibrio;31;0;0;0;0
+61;La puerta abierta;31;0;0;0;0
+62;La reina de España;31;0;0;0;0
+63;100 metros;31;0;0;0;0
+64;La próxima piel;31;0;0;0;0
+65;No culpes al karma de lo que te pasa por gilipollas;31;0;0;0;0
+66;Ozzy;31;0;0;0;0
+67;Gernika. The Movie;31;0;0;0;0
+68;Psiconautas, los niños olvidados;31;0;0;0;0
+69;Teresa eta Galtzagorri (Teresa y Tim);31;0;0;0;0
+70;2016. Nacido en Siria;31;0;0;0;0
+71;El Bosco. El jardín de los sueños;31;0;0;0;0
+72;Omega;31;0;0;0;0
+73;Anna;31;0;0;0;0
+74;Desde allá;31;0;0;0;0
+75;El ciudadano ilustre;31;0;0;0;0
+76;Las elegidas;31;0;0;0;0
+77;El editor de libros;31;0;0;0;0
+78;El hijo de Saúl;31;0;0;0;0
+79;Elle;31;0;0;0;0
+80;Yo, Daniel Blake;31;0;0;0;0
+81;Bla, Bla, Bla;31;0;0;0;0
+82;En la azotea;31;0;0;0;0
+83;Graffiti;31;0;0;0;0
+84;La invitación;31;0;0;0;0
+85;Timecode;31;0;0;0;0
+86;Cabezas Habladoras;31;0;0;0;0
+87;Esperanza;31;0;0;0;0
+88;Palabras de Caramelo;31;0;0;0;0
+89;The Resurrection Club;31;0;0;0;0
+90;Darrel;31;0;0;0;0
+91;Decorado;31;0;0;0;0
+92;Made in Spain;31;0;0;0;0
+93;Uka;31;0;0;0;0
+94;A cambio de nada;30;1;0;0;0
+95;La novia;30;1;0;1;0
+96;Nadie quiere la noche;30;1;0;1;0
+97;Truman;30;1;1;1;1
+98;Un día perfecto;30;1;0;1;0
+99;El desconocido;30;0;0;0;0
+100;Requisitos para ser una persona normal;30;0;0;0;0
+101;Techo y comida;30;0;0;0;0
+102;Negociador;30;0;0;0;0
+103;B;30;0;0;0;0
+104;El Rey de La Habana;30;0;0;0;0
+105;El teatro del más allá. Chavín de Huántar;30;0;0;0;0
+106;ma ma;30;0;0;0;0
+107;El país del miedo;30;0;0;0;0
+108;Matar el tiempo;30;0;0;0;0
+109;Palmeras en la nieve;30;0;0;0;0
+110;Felices 140;30;0;0;0;0
+111;Isla bonita;30;0;0;0;0
+112;Amama;30;0;0;0;0
+113;Un otoño sin Berlín;30;0;0;0;0
+114;Mi gran noche;30;0;0;0;0
+115;Anacleto: agente secreto;30;0;0;0;0
+116;Tiempo sin aire;30;0;0;0;0
+117;Atrapa la bandera;30;0;0;0;0
+118;Meñique;30;0;0;0;0
+119;Noche ¿de Paz? – Holy Night!;30;0;0;0;0
+120;Yoko eta lagunak (Yoko y sus amigos);30;0;0;0;0
+121;Chicas nuevas 24 horas;30;0;0;0;0
+122;I am your Father;30;0;0;0;0
+123;Sueños de sal;30;0;0;0;0
+124;The Propaganda Game;30;0;0;0;0
+125;El clan;30;0;0;0;0
+126;La Once;30;0;0;0;0
+127;Magallanes;30;0;0;0;0
+128;Vestido de novia;30;0;0;0;0
+129;Camino a la escuela;30;0;0;0;0
+130;Leviatán;30;0;0;0;0
+131;Macbeth;30;0;0;0;0
+132;Mustang;30;0;0;0;0
+133;Cordelias;30;0;0;0;0
+134;El corredor;30;0;0;0;0
+135;El Trueno Rojo;30;0;0;0;0
+136;Inside the Box;30;0;0;0;0
+137;Os meninos do rio;30;0;0;0;0
+138;Hijos de la Tierra;30;0;0;0;0
+139;Regreso a la Alcarria;30;0;0;0;0
+140;Ventanas;30;0;0;0;0
+141;Viento de atunes;30;0;0;0;0
+142;Alike;30;0;0;0;0
+143;Honorio. Dos minutos de sol;30;0;0;0;0
+144;La noche del océano;30;0;0;0;0
+145;Víctimas de Guernica;30;0;0;0;0
+146;El Niño;29;1;0;1;0
+147;La isla mínima;29;1;1;1;1
+148;Loreak;29;1;0;0;0
+149;Magical Girl;29;1;0;1;0
+150;Relatos salvajes;29;1;0;1;0
+151;10.000 Km;29;0;0;0;0
+152;Musarañas;29;0;0;0;0
+153;Paco de Lucía: la búsqueda;29;0;0;0;0
+154;Todos están muertos;29;0;0;0;0
+155;A esmorga;29;0;0;0;0
+156;Anochece en la India;29;0;0;0;0
+157;Mortadelo y Filemón contra Jimmy el Cachondo;29;0;0;0;0
+158;Rastres de sàndal;29;0;0;0;0
+159;Haz de tu vida una obra de arte;29;0;0;0;0
+160;Ocho apellidos vascos;29;0;0;0;0
+161;Marsella;29;0;0;0;0
+162;Carmina y amén;29;0;0;0;0
+163;Hermosa juventud;29;0;0;0;0
+164;Autómata;29;0;0;0;0
+165;Por un puñado de besos;29;0;0;0;0
+166;Open Windows;29;0;0;0;0
+167;Torrente 5, Operación Eurovegas;29;0;0;0;0
+168;Dixie y la rebelión zombi (Dixie eta matxinada zonbia);29;0;0;0;0
+169;La tropa de trapo en la selva del arcoíris;29;0;0;0;0
+170;2014. Nacido en Gaza;29;0;0;0;0
+171;Edificio España;29;0;0;0;0
+172;El último adiós de Bette Davis;29;0;0;0;0
+173;Conducta;29;0;0;0;0
+174;Kaplan;29;0;0;0;0
+175;La distancia más larga;29;0;0;0;0
+176;Dios mío, ¿pero qué te hemos hecho?;29;0;0;0;0
+177;El abuelo que saltó por la ventana y se largó;29;0;0;0;0
+178;Ida;29;0;0;0;0
+179;La sal de la Tierra;29;0;0;0;0
+180;Café para llevar;29;0;0;0;0
+181;Loco con ballesta;29;0;0;0;0
+182;Safari;29;0;0;0;0
+183;Todo un futuro juntos;29;0;0;0;0
+184;Trato preferente;29;0;0;0;0
+185;El domador de peixos;29;0;0;0;0
+186;El último abrazo;29;0;0;0;0
+187;La máquina de los rusos;29;0;0;0;0
+188;Walls (Si estas paredes hablasen);29;0;0;0;0
+189;A Lifestory;29;0;0;0;0
+190;A lonely sun story;29;0;0;0;0
+191;El señor del abrigo interminable;29;0;0;0;0
+192;Juan y la nube;29;0;0;0;0
+193;Sangre de unicornio;29;0;0;0;0
+194;15 años y un día;28;1;1;0;0
+195;Caníbal;28;1;1;0;0
+196;La gran familia española;28;1;1;0;0
+197;La herida;28;1;0;0;0
+198;Vivir es fácil con los ojos cerrados;28;1;1;1;0
+199;La plaga;28;0;0;0;0
+200;Mindscape;28;0;0;0;0
+201;Stockholm;28;0;0;0;0
+202;3 bodas de más;28;0;0;0;0
+203;Alacrán enamorado;28;0;0;0;0
+204;Todas las mujeres;28;0;0;0;0
+205;Zipi y Zape y el club de la canica;28;0;0;0;0
+206;A Night in Old Mexico (Una Noche en el Viejo México);28;0;0;0;0
+207;La mula;28;0;0;0;0
+208;Las brujas de Zugarramurdi;28;0;0;0;0
+209;Alegrías de Cádiz;28;0;0;0;0
+210;Tots volem el millor per a ella (Todos queremos lo mejor para ella);28;0;0;0;0
+211;Ismael;28;0;0;0;0
+212;10.000 noches en ninguna parte;28;0;0;0;0
+213;Los últimos días;28;0;0;0;0
+214;New York Shadows;28;0;0;0;0
+215;Los amantes pasajeros;28;0;0;0;0
+216;Grand Piano;28;0;0;0;0
+217;El extraordinario viaje de Lucius Dumb ( Lucius Dumben berebiziko bidaia);28;0;0;0;0
+218;Futbolín;28;0;0;0;0
+219;Hiroku. Defensores de Gaia;28;0;0;0;0
+220;Justin y la espada del valor;28;0;0;0;0
+221;Con la pata quebrada;28;0;0;0;0
+222;Guadalquivir;28;0;0;0;0
+223;Las maestras de la República;28;0;0;0;0
+224;Món Petit (Mundo Pequeño);28;0;0;0;0
+225;Azul y no tan rosa;28;0;0;0;0
+226;El médico alemán. Wakolda;28;0;0;0;0
+227;Gloria;28;0;0;0;0
+228;La jaula de oro;28;0;0;0;0
+229;Amor;28;0;0;0;0
+230;La caza;28;0;0;0;0
+231;La gran belleza;28;0;0;0;0
+232;La vida de Adèle;28;0;0;0;0
+233;Abstenerse agencias;28;0;0;0;0
+234;De noche y de pronto;28;0;0;0;0
+235;El paraguas de colores;28;0;0;0;0
+236;Lucas;28;0;0;0;0
+237;Pipas;28;0;0;0;0
+238;El hombre que estaba allí;28;0;0;0;0
+239;La alfombra roja;28;0;0;0;0
+240;La gran desilusión;28;0;0;0;0
+241;Minerita;28;0;0;0;0
+242;Blue & Malone, detectives imaginarios;28;0;0;0;0
+243;Cuerdas;28;0;0;0;0
+244;O xigante;28;0;0;0;0
+245;Vía Tango;28;0;0;0;0
+246;Blancanieves;27;1;1;1;0
+247;El artista y la modelo;27;1;0;1;0
+248;Grupo 7;27;1;0;1;0
+249;Lo imposible;27;1;0;1;1
+250;Carmina o revienta;27;0;0;0;0
+251;El cuerpo;27;0;0;0;0
+252;Evelyn;27;0;0;0;0
+253;Las aventuras de Tadeo Jones;27;0;0;0;0
+254;Fin;27;0;0;0;0
+255;Invasor;27;0;0;0;0
+256;Tengo ganas de ti;27;0;0;0;0
+257;Todo es silencio;27;0;0;0;0
+258;Els nens salvatges (Los niños salvajes);27;0;0;0;0
+259;La banda Picasso (La bande à Picasso);27;0;0;0;0
+260;El muerto y ser feliz;27;0;0;0;0
+261;Volver a nacer (Venuto al mondo);27;0;0;0;0
+262;Una pistola en cada mano;27;0;0;0;0
+263;El corazón del roble;27;0;0;0;0
+264;O Apóstolo;27;0;0;0;0
+265;The wish fish;27;0;0;0;0
+266;Contra el tiempo;27;0;0;0;0
+267;Hijos de las nubes, la última colonia;27;0;0;0;0
+268;Los mundos sutiles;27;0;0;0;0
+269;Mapa;27;0;0;0;0
+270;7 cajas;27;0;0;0;0
+271;Después de Lucía;27;0;0;0;0
+272;Infancia clandestina;27;0;0;0;0
+273;Juan de los muertos;27;0;0;0;0
+274;De óxido y hueso;27;0;0;0;0
+275;En la casa;27;0;0;0;0
+276;Intocable;27;0;0;0;0
+277;Shame;27;0;0;0;0
+278;Aquel no era yo;27;0;0;0;0
+279;La boda;27;0;0;0;0
+280;Ojos que no ven;27;0;0;0;0
+281;Voice Over;27;0;0;0;0
+282;Una historia para los Modlins (A Story for the Modlins);27;0;0;0;0
+283;El violinista de Auschwitz;27;0;0;0;0
+284;Las viudas de Ifni;27;0;0;0;0
+285;Un cineasta en La Codorniz;27;0;0;0;0
+286;Alfred y Anna;27;0;0;0;0
+287;El vendedor de humo;27;0;0;0;0
+288;La mano de Nefertiti;27;0;0;0;0
+289;¿Por qué desaparecieron los dinosaurios?;27;0;0;0;0
+290;Blackthorn. Sin destino;26;1;0;1;0
+291;La piel que habito;26;1;0;1;0
+292;La voz dormida;26;1;0;1;0
+293;No habrá paz para los malvados;26;1;1;1;1
+294;De tu ventana a la mía;26;0;0;0;0
+295;Eva;26;0;0;0;0
+296;Maktub;26;0;0;0;0
+297;Verbo;26;0;0;0;0
+298;Midnight in Paris;26;0;0;0;0
+299;Arrugas;26;0;0;0;0
+300;Katmandú. Un espejo en el cielo;26;0;0;0;0
+301;Mientras duermes;26;0;0;0;0
+302;La chispa de la vida;26;0;0;0;0
+303;23-F La película;26;0;0;0;0
+304;Primos;26;0;0;0;0
+305;Intruders;26;0;0;0;0
+306;No tengas miedo;26;0;0;0;0
+307;Carthago Nova;26;0;0;0;0
+308;Papá, soy una zombi;26;0;0;0;0
+309;30 años de oscuridad;26;0;0;0;0
+310;El cuaderno de barro;26;0;0;0;0
+311;Escuchando al Juez Garzón;26;0;0;0;0
+312;Morente;26;0;0;0;0
+313;Boleto al paraíso;26;0;0;0;0
+314;Miss Bala;26;0;0;0;0
+315;Un cuento chino;26;0;0;0;0
+316;Violeta se fue a los cielos;26;0;0;0;0
+317;Jane Eyre;26;0;0;0;0
+318;Melancolía;26;0;0;0;0
+319;The Artist;26;0;0;0;0
+320;Un dios salvaje;26;0;0;0;0
+321;El barco pirata;26;0;0;0;0
+322;El premio;26;0;0;0;0
+323;Matar a un niño;26;0;0;0;0
+324;Meine Liebe;26;0;0;0;0
+325;Alma;26;0;0;0;0
+326;Nuevos tiempos;26;0;0;0;0
+327;Regreso a Viridiana;26;0;0;0;0
+328;Virgen negra;26;0;0;0;0
+329;Birdboy;26;0;0;0;0
+330;Ella;26;0;0;0;0
+331;Rosa;26;0;0;0;0
+332;Zeinek Gehiago Iraun;26;0;0;0;0
+333;Balada triste de trompeta;25;1;0;1;0
+334;Buried – Enterrado;25;1;0;1;0
+335;Pa negre;25;1;1;1;1
+336;También la lluvia;25;1;0;1;0
+337;Bon appétit;25;0;0;0;0
+338;Pájaros de papel;25;0;0;0;0
+339;Planes para mañana;25;0;0;0;0
+340;Todas las canciones hablan de mí;25;0;0;0;0
+341;Biutiful;25;0;0;0;0
+342;Elisa K;25;0;0;0;0
+343;Habitación en Roma;25;0;0;0;0
+344;Lope;25;0;0;0;0
+345;La mosquitera;25;0;0;0;0
+346;Los ojos de Julia;25;0;0;0;0
+347;El gran Vázquez;25;0;0;0;0
+348;Entrelobos;25;0;0;0;0
+349;Chico y Rita;25;0;0;0;0
+350;El tesoro del rey Midas;25;0;0;0;0
+351;La tropa de trapo en el país donde siempre brilla el sol;25;0;0;0;0
+352;Las aventuras de Don Quijote;25;0;0;0;0
+353;Bicicleta, cuchara, manzana;25;0;0;0;0
+354;Ciudadano Negrín;25;0;0;0;0
+355;How Much does Your Building Weigh, Mr. Foster?;25;0;0;0;0
+356;María y yo;25;0;0;0;0
+357;Contracorriente;25;0;0;0;0
+358;El hombre de al lado;25;0;0;0;0
+359;El infierno;25;0;0;0;0
+360;La vida de los peces;25;0;0;0;0
+361;El discurso del rey;25;0;0;0;0
+362;El escritor;25;0;0;0;0
+363;La cinta blanca;25;0;0;0;0
+364;Un profeta;25;0;0;0;0
+365;Adiós papá, adiós mamá;25;0;0;0;0
+366;El orden de las cosas;25;0;0;0;0
+367;Una caja de botones;25;0;0;0;0
+368;Zumo de limón;25;0;0;0;0
+369;El cine libertario: cuando las películas hacen historia;25;0;0;0;0
+370;El pabellón alemán;25;0;0;0;0
+371;Memorias de un cine de provincias;25;0;0;0;0
+372;Un dios que ya no ampara;25;0;0;0;0
+373;Exlibris;25;0;0;0;0
+374;La bruxa;25;0;0;0;0
+375;La torre del tiempo (The Tower of Time );25;0;0;0;0
+376;Vicenta;25;0;0;0;0
+377;Agora;24;1;0;1;0
+378;Celda 211;24;1;1;1;1
+379;El baile de la Victoria;24;1;0;1;0
+380;El secreto de sus ojos;24;1;0;1;0
+381;La vergüenza;24;0;0;0;0
+382;Pagafantas;24;0;0;0;0
+383;Tres dies amb la família;24;0;0;0;0
+384;Yo, también;24;0;0;0;0
+385;After;24;0;0;0;0
+386;Gordos;24;0;0;0;0
+387;Los abrazos rotos;24;0;0;0;0
+388;El cónsul de Sodoma;24;0;0;0;0
+389;Agallas;24;0;0;0;0
+390;Planet 51;24;0;0;0;0
+391;Spanish Movie;24;0;0;0;0
+392;Tetro;24;0;0;0;0
+393;Che. Guerrilla;24;0;0;0;0
+394;Mapa de los sonidos de Tokio;24;0;0;0;0
+395;[REC]2;24;0;0;0;0
+396;Animal Channel;24;0;0;0;0
+397;Cher Ami;24;0;0;0;0
+398;Pérez, el ratoncito de tus sueños 2;24;0;0;0;0
+399;Cómicos;24;0;0;0;0
+400;Garbo, el hombre que salvó el mundo;24;0;0;0;0
+401;La mirada de Ouka Leele;24;0;0;0;0
+402;Últimos Testigos: Fraga Iribarne – Carrillo, Comunista;24;0;0;0;0
+403;Bienvenidos al norte;24;0;0;0;0
+404;Déjame entrar;24;0;0;0;0
+405;La clase;24;0;0;0;0
+406;Slumdog millionaire ¿Quién quiere ser millonario?;24;0;0;0;0
+407;Dime que yo;24;0;0;0;0
+408;La Tama;24;0;0;0;0
+409;Lala;24;0;0;0;0
+410;Terapia;24;0;0;0;0
+411;Doppelgänger;24;0;0;0;0
+412;En un lugar del cine;24;0;0;0;0
+413;Flores de Ruanda;24;0;0;0;0
+414;Luchadoras (Mujeres en México);24;0;0;0;0
+415;Alma;24;0;0;0;0
+416;Margarita;24;0;0;0;0
+417;Tachaaan!;24;0;0;0;0
+418;The Lady and the Reaper / La dama y la muerte;24;0;0;0;0
+419;Dawson Isla 10;24;0;0;0;0
+420;Gigante;24;0;0;0;0
+421;La teta asustada;24;0;0;0;0
+422;Camino;23;1;1;1;1
+423;Los crímenes de Oxford;23;1;0;1;0
+424;Los girasoles ciegos;23;1;0;1;0
+425;Sólo quiero caminar;23;1;0;1;0
+426;El patio de mi cárcel;23;0;0;0;0
+427;El truco del manco;23;0;0;0;0
+428;Los cronocrímenes;23;0;0;0;0
+429;Un novio para Yasmina;23;0;0;0;0
+430;Cenizas del cielo;23;0;0;0;0
+431;Retorno a Hansala;23;0;0;0;0
+432;Che, el Argentino;23;0;0;0;0
+433;Una palabra tuya;23;0;0;0;0
+434;El juego del ahorcado;23;0;0;0;0
+435;Fuera de carta;23;0;0;0;0
+436;Cobardes;23;0;0;0;0
+437;La conjura de El Escorial;23;0;0;0;0
+438;Sangre de mayo;23;0;0;0;0
+439;Vicky Cristina Barcelona;23;0;0;0;0
+440;Mortadelo y Filemón: misión, salvar la Tierra;23;0;0;0;0
+441;El Greco;23;0;0;0;0
+442;3 días;23;0;0;0;0
+443;Donkey Xote;23;0;0;0;0
+444;El lince perdido;23;0;0;0;0
+445;Espíritu del bosque;23;0;0;0;0
+446;Rh+, el vampiro de Sevilla;23;0;0;0;0
+447;Bucarest, la memoria perdida;23;0;0;0;0
+448;El pollo, el pez y el cangrejo real;23;0;0;0;0
+449;El último truco. Emilio Ruiz del Río;23;0;0;0;0
+450;Old Man Bebo;23;0;0;0;0
+451;4 meses, 3 semanas, 2 días;23;0;0;0;0
+452;Al otro lado;23;0;0;0;0
+453;El caballero oscuro;23;0;0;0;0
+454;El niño con el pijama de rayas;23;0;0;0;0
+455;El encargado;23;0;0;0;0
+456;Final;23;0;0;0;0
+457;Machu-Pichu;23;0;0;0;0
+458;Miente;23;0;0;0;0
+459;Porque hay cosas que nunca se olvidan;23;0;0;0;0
+460;Hárraga;23;0;0;0;0
+461;Héroes. No hacen falta alas para volar;23;0;0;0;0
+462;La clase;23;0;0;0;0
+463;Soy Meera Malik;23;0;0;0;0
+464;El ataque de los kriters asesinos;23;0;0;0;0
+465;Espagueti Western;23;0;0;0;0
+466;La increíble historia del hombre sin sombra;23;0;0;0;0
+467;Malacara y el misterio del bastón de roble;23;0;0;0;0
+468;Rascal’s Street;23;0;0;0;0
+469;Acné;23;0;0;0;0
+470;La buena vida;23;0;0;0;0
+471;Lake Tahoe;23;0;0;0;0
+472;Perro come perro;23;0;0;0;0
+473;El orfanato;22;1;0;1;0
+474;La soledad;22;1;1;1;1
+475;Las 13 rosas;22;1;0;1;0
+476;Siete mesas de billar francés;22;1;0;1;0
+477;Mataharis;22;0;0;0;0
+478;Bajo las estrellas;22;0;0;0;0
+479;La torre de Suso;22;0;0;0;0
+480;Pudor;22;0;0;0;0
+481;Oviedo Express;22;0;0;0;0
+482;Barcelona (un mapa);22;0;0;0;0
+483;La carta esférica;22;0;0;0;0
+484;La zona;22;0;0;0;0
+485;Cándida;22;0;0;0;0
+486;Concursante;22;0;0;0;0
+487;El niño de barro;22;0;0;0;0
+488;Fados;22;0;0;0;0
+489;El prado de las estrellas;22;0;0;0;0
+490;Luz de domingo;22;0;0;0;0
+491;Lola, la película;22;0;0;0;0
+492;[REC];22;0;0;0;0
+493;El corazón de la Tierra;22;0;0;0;0
+494;Tuya siempre;22;0;0;0;0
+495;Azur y Asmar;22;0;0;0;0
+496;Betizu eta urrezko zintzarria;22;0;0;0;0
+497;En busca de la piedra mágica;22;0;0;0;0
+498;Nocturna, una aventura mágica;22;0;0;0;0
+499;El productor;22;0;0;0;0
+500;Invisibles;22;0;0;0;0
+501;Lucio;22;0;0;0;0
+502;El pan nuestro;22;0;0;0;0
+503;Padam;22;0;0;0;0
+504;Paseo;22;0;0;0;0
+505;Proverbio chino;22;0;0;0;0
+506;Salvador (Historia de un milagro cotidiano);22;0;0;0;0
+507;Carabanchel, un barrio de cine;22;0;0;0;0
+508;El anónimo Caronte;22;0;0;0;0
+509;El hombre feliz;22;0;0;0;0
+510;Valkirias;22;0;0;0;0
+511;Atención al cliente;22;0;0;0;0
+512;El bufón y la infanta;22;0;0;0;0
+513;La flor más grande del mundo;22;0;0;0;0
+514;Perpetuum mobile;22;0;0;0;0
+515;Tadeo Jones y el sótano maldito;22;0;0;0;0
+516;La edad de la peseta;22;0;0;0;0
+517;Mariposa negra;22;0;0;0;0
+518;Padre nuestro;22;0;0;0;0
+519;XXY;22;0;0;0;0
+520;Alatriste;21;1;0;1;0
+521;El laberinto del fauno;21;1;0;1;0
+522;Salvador (Puig Antich);21;1;0;1;0
+523;Volver;21;1;1;1;1
+524;Azul oscuro casi negro;21;0;0;0;0
+525;La noche de los girasoles;21;0;0;0;0
+526;Lo que sé de Lola;21;0;0;0;0
+527;Un franco, 14 pesetas;21;0;0;0;0
+528;El camino de los ingleses;21;0;0;0;0
+529;La educación de las hadas;21;0;0;0;0
+530;Bienvenido a casa;21;0;0;0;0
+531;El próximo oriente;21;0;0;0;0
+532;Vete de mí;21;0;0;0;0
+533;La dama boba;21;0;0;0;0
+534;Cabeza de perro;21;0;0;0;0
+535;Yo soy la Juani;21;0;0;0;0
+536;Los Borgia;21;0;0;0;0
+537;Los fantasmas de Goya;21;0;0;0;0
+538;Broken Wire;21;0;0;0;0
+539;De profundis;21;0;0;0;0
+540;El cubo mágico;21;0;0;0;0
+541;Pérez, el ratoncito de tus sueños;21;0;0;0;0
+542;Teo, cazador intergaláctico;21;0;0;0;0
+543;Cineastas en acción;21;0;0;0;0
+544;Hécuba, un sueño de pasión;21;0;0;0;0
+545;La silla de Fernando;21;0;0;0;0
+546;Más allá del espejo;21;0;0;0;0
+547;Copying Beethoven;21;0;0;0;0
+548;El viento que agita la cebada;21;0;0;0;0
+549;Scoop;21;0;0;0;0
+550;The Queen (La Reina);21;0;0;0;0
+551;A ciegas;21;0;0;0;0
+552;Contracuerpo;21;0;0;0;0
+553;Equipajes;21;0;0;0;0
+554;La guerra;21;0;0;0;0
+555;Propiedad privada;21;0;0;0;0
+556;Abandonatti;21;0;0;0;0
+557;Castañuela 70, el teatro prohibido;21;0;0;0;0
+558;Casting;21;0;0;0;0
+559;Joe K;21;0;0;0;0
+560;La Sereníssima;21;0;0;0;0
+561;Another Way to Fly;21;0;0;0;0
+562;El viaje de Said;21;0;0;0;0
+563;Hasta la muerte;21;0;0;0;0
+564;La noche de los feos;21;0;0;0;0
+565;American Visa;21;0;0;0;0
+566;En la cama;21;0;0;0;0
+567;Las manos;21;0;0;0;0
+568;Soñar no cuesta nada;21;0;0;0;0
+569;7 vírgenes;20;1;0;1;0
+570;La vida secreta de las palabras;20;1;1;1;1
+571;Obaba;20;1;0;1;0
+572;Princesas;20;1;0;0;0
+573;Habana Blues;20;0;0;1;0
+574;Aupa Etxebeste!;20;0;0;0;0
+575;El habitante incierto;20;0;0;0;0
+576;Tapas;20;0;0;0;0
+577;Vida y color;20;0;0;0;0
+578;Otros días vendrán;20;0;0;0;0
+579;El método;20;0;0;0;0
+580;El penalti más largo del mundo;20;0;0;0;0
+581;Ninette;20;0;0;0;0
+582;Frágiles;20;0;0;0;0
+583;La noche del hermano;20;0;0;0;0
+584;Bagdad Rap;20;0;0;0;0
+585;Sinfín, el retorno del rock;20;0;0;0;0
+586;Camarón: la película;20;0;0;0;0
+587;Elsa & Fred;20;0;0;0;0
+588;Heroína;20;0;0;0;0
+589;Malas temporadas;20;0;0;0;0
+590;Para que no me olvides;20;0;0;0;0
+591;Segundo asalto;20;0;0;0;0
+592;15 días contigo;20;0;0;0;0
+593;Iberia;20;0;0;0;0
+594;El reino de los cielos;20;0;0;0;0
+595;Hormigas en la boca;20;0;0;0;0
+596;El calentito;20;0;0;0;0
+597;Los Dalton contra Lucky Luke;20;0;0;0;0
+598;Los nombres de Alicia;20;0;0;0;0
+599;Las llaves de la independencia;20;0;0;0;0
+600;Un rey en La Habana;20;0;0;0;0
+601;El sueño de una noche de San Juan;20;0;0;0;0
+602;Gisaku;20;0;0;0;0
+603;Cineastas contra magnates;20;0;0;0;0
+604;Trece entre mil;20;0;0;0;0
+605;Veinte años no es nada;20;0;0;0;0
+606;El hundimiento;20;0;0;0;0
+607;El jardinero fiel;20;0;0;0;0
+608;Los chicos del coro;20;0;0;0;0
+609;Match Point;20;0;0;0;0
+610;Bota de oro;20;0;0;0;0
+611;El examinador;20;0;0;0;0
+612;El intruso;20;0;0;0;0
+613;Hiyab;20;0;0;0;0
+614;Nana;20;0;0;0;0
+615;Castilla y León, Patrimonio de la Humanidad;20;0;0;0;0
+616;En la cuna del aire;20;0;0;0;0
+617;Nenyure;20;0;0;0;0
+618;La gallina ciega;20;0;0;0;0
+619;La leyenda del espantapájaros;20;0;0;0;0
+620;La luz de la esperanza;20;0;0;0;0
+621;Semilla del recuerdo;20;0;0;0;0
+622;Tadeo Jones;20;0;0;0;0
+623;Alma mater;20;0;0;0;0
+624;Iluminados por el fuego;20;0;0;0;0
+625;Mi mejor enemigo;20;0;0;0;0
+626;Rosario Tijeras;20;0;0;0;0
+627;La mala educación;19;1;0;1;0
+628;Mar adentro;19;1;1;1;1
+629;Roma;19;1;0;1;0
+630;Tiovivo c. 1950;19;1;0;1;0
+631;El 7º día;19;0;0;0;0
+632;Astronautas;19;0;0;0;0
+633;Frío sol de invierno;19;0;0;0;0
+634;Fuera del cuerpo;19;0;0;0;0
+635;Haz conmigo lo que quieras;19;0;0;0;0
+636;Horas de luz;19;0;0;0;0
+637;Inconscientes;19;0;0;0;0
+638;Diarios de motocicleta;19;0;0;0;0
+639;El año del diluvio;19;0;0;0;0
+640;Las voces de la noche;19;0;0;0;0
+641;No te muevas;19;0;0;0;0
+642;El maquinista;19;0;0;0;0
+643;Héctor;19;0;0;0;0
+644;Atún y chocolate;19;0;0;0;0
+645;El milagro de Candeal;19;0;0;0;0
+646;Incautos;19;0;0;0;0
+647;Isi & Disi;19;0;0;0;0
+648;Cosas que hacen que la vida valga la pena;19;0;0;0;0
+649;Crimen ferpecto;19;0;0;0;0
+650;El Lobo;19;0;0;0;0
+651;María querida;19;0;0;0;0
+652;Cachorro;19;0;0;0;0
+653;Romasanta, la caza de la bestia;19;0;0;0;0
+654;El puente de San Luis Rey;19;0;0;0;0
+655;La puta y la ballena;19;0;0;0;0
+656;Seres queridos;19;0;0;0;0
+657;Torapia;19;0;0;0;0
+658;Los Balunis en la aventura del fin del mundo;19;0;0;0;0
+659;P3K Pinocho 3000;19;0;0;0;0
+660;Supertramps;19;0;0;0;0
+661;De niños;19;0;0;0;0
+662;¡Hay motivo!;19;0;0;0;0
+663;Salvador Allende;19;0;0;0;0
+664;Conociendo a Julia;19;0;0;0;0
+665;Contra la pared;19;0;0;0;0
+666;El Señor Ibrahim y las Flores del Corán;19;0;0;0;0
+667;La joven de la perla;19;0;0;0;0
+668;Amigo, no gima;19;0;0;0;0
+669;Cara sucia;19;0;0;0;0
+670;Diez minutos;19;0;0;0;0
+671;La ruta natural;19;0;0;0;0
+672;Viernes;19;0;0;0;0
+673;Aerosol;19;0;0;0;0
+674;El mundo es tuyo;19;0;0;0;0
+675;El último minutero;19;0;0;0;0
+676;Extras;19;0;0;0;0
+677;Iván Z;19;0;0;0;0
+678;El enigma del Chico Croqueta;19;0;0;0;0
+679;Minotauromaquia (Pablo en el laberinto);19;0;0;0;0
+680;The trumouse show;19;0;0;0;0
+681;Vuela por mí;19;0;0;0;0
+682;El rey;19;0;0;0;0
+683;Luna de Avellaneda;19;0;0;0;0
+684;Machuca;19;0;0;0;0
+685;Whisky;19;0;0;0;0
+686;Mi vida sin mí;18;1;0;1;0
+687;Planta 4;18;1;0;1;0
+688;Soldados de Salamina;18;1;0;1;0
+689;Te doy mis ojos;18;1;1;1;1
+690;En la ciudad;18;0;0;0;0
+691;Días de fútbol;18;0;0;0;0
+692;La suerte dormida;18;0;0;0;0
+693;Las horas del día;18;0;0;0;0
+694;Torremolinos 73;18;0;0;0;0
+695;La flaqueza del Bolchevique;18;0;0;0;0
+696;La luz prodigiosa;18;0;0;0;0
+697;Al sur de Granada;18;0;0;0;0
+698;Eyengui, el dios del sueño;18;0;0;0;0
+699;Hotel Danubio;18;0;0;0;0
+700;Valentín;18;0;0;0;0
+701;Atraco a las 3 y media;18;0;0;0;0
+702;Carmen;18;0;0;0;0
+703;Cosa de brujas;18;0;0;0;0
+704;El lápiz del carpintero;18;0;0;0;0
+705;El regalo de Silvia;18;0;0;0;0
+706;La vida mancha;18;0;0;0;0
+707;Noviembre;18;0;0;0;0
+708;El misterio Galíndez;18;0;0;0;0
+709;La gran aventura de Mortadelo y Filemón;18;0;0;0;0
+710;La selva;18;0;0;0;0
+711;Más de mil cámaras velan por tu seguridad;18;0;0;0;0
+712;El refugio del mal;18;0;0;0;0
+713;El Cid, la leyenda;18;0;0;0;0
+714;El embrujo del sur;18;0;0;0;0
+715;Glup;18;0;0;0;0
+716;Los Reyes Magos;18;0;0;0;0
+717;La pelota vasca (La piel contra la piedra);18;0;0;0;0
+718;Polígono sur. El arte de Las Tres Mil;18;0;0;0;0
+719;Suite Habana;18;0;0;0;0
+720;Un instante en la vida ajena;18;0;0;0;0
+721;Dogville;18;0;0;0;0
+722;Good Bye, Lenin!;18;0;0;0;0
+723;La flor del mal;18;0;0;0;0
+724;Soñadores;18;0;0;0;0
+725;Carisma;18;0;0;0;0
+726;En camas separadas;18;0;0;0;0
+727;Exprés;18;0;0;0;0
+728;Promoción, prohibida su venta;18;0;0;0;0
+729;Sueños;18;0;0;0;0
+730;Los niños del Nepal;18;0;0;0;0
+731;Yo soy de mi barrio;18;0;0;0;0
+732;A mantis religiosa;18;0;0;0;0
+733;El desván;18;0;0;0;0
+734;La habitación inclinada;18;0;0;0;0
+735;Manipai;18;0;0;0;0
+736;Regaré con lágrimas tus pétalos;18;0;0;0;0
+737;El misterio del Trinidad;18;0;0;0;0
+738;El viaje hacia el mar;18;0;0;0;0
+739;Historias mínimas;18;0;0;0;0
+740;El otro lado de la cama;17;1;0;1;0
+741;En la ciudad sin límites;17;1;0;1;0
+742;Hable con ella;17;1;0;1;0
+743;Los lunes al sol;17;1;1;1;1
+744;A mi madre le gustan las mujeres;17;0;0;0;0
+745;La vida de nadie;17;0;0;0;0
+746;Piedras;17;0;0;0;0
+747;Smoking Room;17;0;0;0;0
+748;El caballero Don Quijote;17;0;0;0;0
+749;El embrujo de Shanghai;17;0;0;0;0
+750;Lugares comunes;17;0;0;0;0
+751;Volverás;17;0;0;0;0
+752;800 Balas;17;0;0;0;0
+753;Arderás conmigo;17;0;0;0;0
+754;Dragon Hill, La colina del dragón;17;0;0;0;0
+755;Guerreros;17;0;0;0;0
+756;Salomé;17;0;0;0;0
+757;Historia de un beso;17;0;0;0;0
+758;La caja 507;17;0;0;0;0
+759;Rencor;17;0;0;0;0
+760;El alquimista impaciente;17;0;0;0;0
+761;El viaje de Carol;17;0;0;0;0
+762;Nos miran;17;0;0;0;0
+763;Aro Tolbukhin: En la mente del asesino;17;0;0;0;0
+764;Callas Forever;17;0;0;0;0
+765;Lisístrata;17;0;0;0;0
+766;Trece campanadas;17;0;0;0;0
+767;Darkness;17;0;0;0;0
+768;El robo más grande jamás contado;17;0;0;0;0
+769;Anjé, la leyenda del Pirineo;17;0;0;0;0
+770;El rey de la granja;17;0;0;0;0
+771;Puerta del tiempo;17;0;0;0;0
+772;Balseros;17;0;0;0;0
+773;De Salamanca a ninguna parte;17;0;0;0;0
+774;El efecto Iguazú;17;0;0;0;0
+775;Nómadas del viento;17;0;0;0;0
+776;Deliciosa Martha;17;0;0;0;0
+777;El pianista de Roman Polanski;17;0;0;0;0
+778;Gosford Park;17;0;0;0;0
+779;Italiano para principiantes;17;0;0;0;0
+780;El espantapájaros;17;0;0;0;0
+781;Historia de un búho;17;0;0;0;0
+782;Hoy por ti, mañana por mí;17;0;0;0;0
+783;Nada que perder;17;0;0;0;0
+784;Uno más, uno menos;17;0;0;0;0
+785;Howard Hawks, San Sebastián 1972;17;0;0;0;0
+786;Mar Madrid;17;0;0;0;0
+787;Túnel número 20;17;0;0;0;0
+788;El negre és el color dels déus;17;0;0;0;0
+789;Sr. Trapo;17;0;0;0;0
+790;T.V.;17;0;0;0;0
+791;El crimen del Padre Amaro;17;0;0;0;0
+792;El último tren;17;0;0;0;0
+793;Nada +;17;0;0;0;0
+794;Un día de suerte;17;0;0;0;0
+795;Juana la Loca;16;1;0;1;0
+796;Los otros;16;1;1;1;1
+797;Lucía y el sexo;16;1;0;1;0
+798;Sin noticias de Dios;16;1;0;1;0
+799;Intacto;16;0;0;0;0
+800;Más pena que gloria;16;0;0;0;0
+801;Salvajes;16;0;0;0;0
+802;Solo mía;16;0;0;0;0
+803;Sin vergüenza;16;0;0;0;0
+804;Anita no pierde el tren;16;0;0;0;0
+805;La isla del holandés;16;0;0;0;0
+806;Son de mar;16;0;0;0;0
+807;El bosque animado, sentirás su magia;16;0;0;0;0
+808;El cielo abierto;16;0;0;0;0
+809;Torrente 2: Misión en Marbella;16;0;0;0;0
+810;Fausto 5.0;16;0;0;0;0
+811;Silencio roto;16;0;0;0;0
+812;El palo;16;0;0;0;0
+813;Desafinado;16;0;0;0;0
+814;El espinazo del diablo;16;0;0;0;0
+815;Buñuel y la mesa del rey Salomón;16;0;0;0;0
+816;La leyenda del unicornio;16;0;0;0;0
+817;Manuelita;16;0;0;0;0
+818;Un perro llamado Dolor;16;0;0;0;0
+819;Asesinato en febrero;16;0;0;0;0
+820;En construcción;16;0;0;0;0
+821;Extranjeros de sí mismos;16;0;0;0;0
+822;Los niños de Rusia;16;0;0;0;0
+823;Amelie;16;0;0;0;0
+824;Billy Elliot (Quiero bailar);16;0;0;0;0
+825;Chocolat;16;0;0;0;0
+826;El diario de Bridget Jones;16;0;0;0;0
+827;Bamboleho;16;0;0;0;0
+828;Desaliñada;16;0;0;0;0
+829;La mirada obliqua;16;0;0;0;0
+830;La primera vez;16;0;0;0;0
+831;V.O.;16;0;0;0;0
+832;El aparecido;16;0;0;0;0
+833;La colección;16;0;0;0;0
+834;Pollo;16;0;0;0;0
+835;W.C.;16;0;0;0;0
+836;La fuga;16;0;0;0;0
+837;Miel para Oshun;16;0;0;0;0
+838;Perfume de violetas;16;0;0;0;0
+839;Taxi para tres;16;0;0;0;0
+840;El Bola;15;1;1;1;0
+841;La comunidad;15;1;0;1;0
+842;Leo;15;1;0;1;1
+843;You’re the One (Una historia de entonces);15;1;0;1;0
+844;Besos para todos;15;0;0;0;0
+845;El corazón del guerrero;15;0;0;0;0
+846;Krámpack;15;0;0;0;0
+847;Sé quién eres;15;0;0;0;0
+848;El otro barrio;15;0;0;0;0
+849;El portero;15;0;0;0;0
+850;Lázaro de Tormes;15;0;0;0;0
+851;Asfalto;15;0;0;0;0
+852;Plenilunio;15;0;0;0;0
+853;El arte de morir;15;0;0;0;0
+854;Fugitivas;15;0;0;0;0
+855;Gitano;15;0;0;0;0
+856;Km. 0;15;0;0;0;0
+857;Adiós con el corazón;15;0;0;0;0
+858;Obra maestra;15;0;0;0;0
+859;El mar;15;0;0;0;0
+860;Terca vida;15;0;0;0;0
+861;Calle 54;15;0;0;0;0
+862;Año Mariano;15;0;0;0;0
+863;10+2 El gran secreto;15;0;0;0;0
+864;El ladrón de sueños;15;0;0;0;0
+865;La isla del cangrejo;15;0;0;0;0
+866;Marco Antonio, rescate en Hong Kong;15;0;0;0;0
+867;Bailar en la oscuridad;15;0;0;0;0
+868;Chicken Run: Evasión en la granja;15;0;0;0;0
+869;Encuentros privados;15;0;0;0;0
+870;Oriente es Oriente;15;0;0;0;0
+871;El puzzle;15;0;0;0;0
+872;Los Almendros–Plaza Nueva;15;0;0;0;0
+873;Pantalones;15;0;0;0;0
+874;The Raven Nevermore;15;0;0;0;0
+875;Lista de espera;15;0;0;0;0
+876;Pantaleón y las visitadoras;15;0;0;0;0
+877;Plata quemada;15;0;0;0;0
+878;Ratas, ratones, rateros;15;0;0;0;0
+879;Cuando vuelvas a mi lado;14;1;0;1;0
+880;La lengua de las mariposas;14;1;0;1;0
+881;Solas;14;1;0;1;0
+882;Todo sobre mi madre;14;1;1;1;1
+883;La mujer mas fea del mundo;14;0;0;0;0
+884;Lluvia en los zapatos;14;0;0;0;0
+885;Nadie conoce a nadie;14;0;0;0;0
+886;Flores de otro mundo;14;0;0;0;0
+887;Amic/Amat (Amigo/Amado);14;0;0;0;0
+888;El coronel no tiene quien le escriba;14;0;0;0;0
+889;Manolito Gafotas;14;0;0;0;0
+890;Goya en Burdeos;14;0;0;0;0
+891;Segunda piel;14;0;0;0;0
+892;Lágrimas negras;14;0;0;0;0
+893;Lisboa;14;0;0;0;0
+894;Muertos de risa;14;0;0;0;0
+895;París-Tombuctú;14;0;0;0;0
+896;Los lobos de Washington;14;0;0;0;0
+897;Celos;14;0;0;0;0
+898;La fuente amarilla;14;0;0;0;0
+899;Volavérunt;14;0;0;0;0
+900;La ciudad de los prodigios;14;0;0;0;0
+901;Goomer;14;0;0;0;0
+902;Gato negro, gato blanco;14;0;0;0;0
+903;Hoy empieza todo;14;0;0;0;0
+904;La cena de los idiotas;14;0;0;0;0
+905;La vida es bella;14;0;0;0;0
+906;Back Room;14;0;0;0;0
+907;El paraíso perdido;14;0;0;0;0
+908;Lencería de ocasión;14;0;0;0;0
+909;Obsesión;14;0;0;0;0
+910;Siete cafés por semana;14;0;0;0;0
+911;Lalia;14;0;0;0;0
+912;Positivo;14;0;0;0;0
+913;Animal;14;0;0;0;0
+914;Los girasoles;14;0;0;0;0
+915;Podría ser peor;14;0;0;0;0
+916;Smoke City;14;0;0;0;0
+917;William Wilson;14;0;0;0;0
+918;Del olvido al no me acuerdo;14;0;0;0;0
+919;La vida es silbar;14;0;0;0;0
+920;Mundo grúa;14;0;0;0;0
+;;;;;;
+;;;;;;
+;;;;;;
